@@ -16,7 +16,7 @@
                     <xs:element name="Zip" type="xs:string"/> </xs:sequence><!-- holds zip codw  of the hotels is at-->
                   <xs:attribute name="NearstAirport" type="xs:string" use="required"/></xs:complexType>
               </xs:element> </xs:sequence>
-            <xs:attribute name="Rating" type="xs:decimal" use="optional"/><!-- holds rating  of the hotels ->
+            <xs:attribute name="Rating" type="xs:decimal" use="optional"/>
           </xs:complexType>
        </xs:element>
       </xs:sequence>
