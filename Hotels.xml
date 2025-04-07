@@ -1,3 +1,4 @@
+Hotels.xml 
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels>
   <Hotel Rating="4.2">
@@ -12,6 +13,112 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-
-</Hotels>
+  <Hotel Rating="4.5">
+    <Name>Marriott</Name>
+    <Phone>480-123-4567</Phone>
+    <Phone>800-654-3210</Phone>
+    <Address NearstAirport="Phoenix Sky Harbor">
+      <Number>100</Number>
+      <Street>W 5th Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.0">
+    <Name>Hilton</Name>
+    <Phone>480-234-5678</Phone>
+    <Phone>800-765-4321</Phone>
+    <Address NearstAirport="Phoenix Sky Harbor">
+      <Number>200</Number>
+      <Street>W 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85283</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.9">
+    <Name>Holiday Inn</Name>
+    <Phone>480-345-6789</Phone>
+    <Phone>800-876-5432</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>50</Number>
+      <Street>N 3rd Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85284</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.3">
+    <Name>Radisson</Name>
+    <Phone>480-456-7890</Phone>
+    <Phone>800-987-6543</Phone>
+    <Address NearstAirport="Phoenix Sky Harbor">
+      <Number>150</Number>
+      <Street>W 4th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85285</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.1">
+    <Name>Best Western</Name>
+    <Phone>480-567-8901</Phone>
+    <Phone>800-654-9876</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>60</Number>
+      <Street>E 9th Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85286</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.4">
+    <Name>DoubleTree</Name>
+    <Phone>480-678-9012</Phone>
+    <Phone>800-876-6543</Phone>
+    <Address NearstAirport="Phoenix Sky Harbor">
+      <Number>30</Number>
+      <Street>S 2nd St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85287</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.8">
+    <Name>Comfort Inn</Name>
+    <Phone>480-789-0123</Phone>
+    <Phone>800-765-1234</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>80</Number>
+      <Street>N 5th Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85288</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.6">
+    <Name>Sheraton</Name>
+    <Phone>480-890-1234</Phone>
+    <Phone>800-654-3210</Phone>
+    <Address NearstAirport="Phoenix Sky Harbor">
+      <Number>120</Number>
+      <Street>W 6th Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85289</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.0">
+    <Name>Holiday Express</Name>
+    <Phone>480-901-2345</Phone>
+    <Phone>800-876-1234</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>40</Number>
+      <Street>W 8th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85290</Zip>
+    </Address>
+  </Hotel>
 </Hotels>
