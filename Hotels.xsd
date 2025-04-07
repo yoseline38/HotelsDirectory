@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  
   <xs:element name="Hotels">
     <xs:complexType>
       <xs:sequence>
@@ -7,9 +8,13 @@
           <xs:complexType>
             <xs:sequence>
               <xs:element name="Name" type="xs:string"/>
-              
-              <xs:element name="Phone" type="xs:string" maxOccurs="unbounded"/>
-              
+              <xs:element name="Phone" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string"/>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
               <xs:element name="Address">
                 <xs:complexType>
                   <xs:sequence>
@@ -19,16 +24,15 @@
                     <xs:element name="State" type="xs:string"/>
                     <xs:element name="Zip" type="xs:string"/>
                   </xs:sequence>
-                  <xs:attribute name="NearestAirport" type="xs:string" use="optional"/>
                 </xs:complexType>
               </xs:element>
-
-              <xs:attribute name="Rating" type="xs:string" use="optional"/>
+              <xs:attribute name="Rating" type="xs:float"/>
             </xs:sequence>
           </xs:complexType>
         </xs:element>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
+
 </xs:schema>
 
