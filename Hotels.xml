@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels>
-  <Hotel Rating="4.2">
+  <Hotel Rating="4.2">    <!--hotel 1 n its info-->
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
@@ -12,7 +12,7 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  <Hotel Rating="4.5">
+  <Hotel Rating="4.5">  <!--hotel 2 n its info-->
     <Name>Marriott</Name>
     <Phone>480-123-4567</Phone>
     <Phone>800-654-3210</Phone>
@@ -24,7 +24,7 @@
       <Zip>85282</Zip>
     </Address>
   </Hotel>
-  <Hotel Rating="4.0">
+  <Hotel Rating="4.0">  <!--hotel 3 n its info-->
     <Name>Hilton</Name>
     <Phone>480-234-5678</Phone>
     <Phone>800-765-4321</Phone>
@@ -36,7 +36,7 @@
       <Zip>85283</Zip>
     </Address>
   </Hotel>
-  <Hotel Rating="3.9">
+  <Hotel Rating="3.9">  <!--hotel 4 n its info-->
     <Name>Holiday Inn</Name>
     <Phone>480-345-6789</Phone>
     <Phone>800-876-5432</Phone>
@@ -48,7 +48,7 @@
       <Zip>85284</Zip>
     </Address>
   </Hotel>
-  <Hotel Rating="4.3">
+  <Hotel Rating="4.3">  <!--hotel 5 n its info-->
     <Name>Radisson</Name>
     <Phone>480-456-7890</Phone>
     <Phone>800-987-6543</Phone>
@@ -60,7 +60,7 @@
       <Zip>85285</Zip>
     </Address>
   </Hotel>
-  <Hotel Rating="4.1">
+  <Hotel Rating="4.1">  <!--hotel 6 n its info-->
     <Name>Best Western</Name>
     <Phone>480-567-8901</Phone>
     <Phone>800-654-9876</Phone>
@@ -72,7 +72,7 @@
       <Zip>85286</Zip>
     </Address>
   </Hotel>
-  <Hotel Rating="4.4">
+  <Hotel Rating="4.4">  <!--hotel 7 n its info-->
     <Name>DoubleTree</Name>
     <Phone>480-678-9012</Phone>
     <Phone>800-876-6543</Phone>
@@ -84,7 +84,7 @@
       <Zip>85287</Zip>
     </Address>
   </Hotel>
-  <Hotel Rating="3.8">
+  <Hotel Rating="3.8">  <!--hotel 8 n its info-->
     <Name>Comfort Inn</Name>
     <Phone>480-789-0123</Phone>
     <Phone>800-765-1234</Phone>
@@ -96,7 +96,7 @@
       <Zip>85288</Zip>
     </Address>
   </Hotel>
-  <Hotel Rating="4.6">
+  <Hotel Rating="4.6">  <!--hotel 9 n its info-->
     <Name>Sheraton</Name>
     <Phone>480-890-1234</Phone>
     <Phone>800-654-3210</Phone>
@@ -108,7 +108,7 @@
       <Zip>85289</Zip>
     </Address>
   </Hotel>
-  <Hotel Rating="4.0">
+  <Hotel Rating="4.0">  <!--hotel 10 n its info-->
     <Name>Holiday Express</Name>
     <Phone>480-901-2345</Phone>
     <Phone>800-876-1234</Phone>
